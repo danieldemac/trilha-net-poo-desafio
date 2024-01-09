@@ -1,0 +1,14 @@
+C:\Users\daniel.cabral\Desktop\Estudos.NET-main\exemplofundamentos 2\bin\Debug\net8.0\DesafioPOO.exe
+C:\Users\daniel.cabral\Desktop\Estudos.NET-main\exemplofundamentos 2\bin\Debug\net8.0\DesafioPOO.deps.json
+C:\Users\daniel.cabral\Desktop\Estudos.NET-main\exemplofundamentos 2\bin\Debug\net8.0\DesafioPOO.runtimeconfig.json
+C:\Users\daniel.cabral\Desktop\Estudos.NET-main\exemplofundamentos 2\bin\Debug\net8.0\DesafioPOO.dll
+C:\Users\daniel.cabral\Desktop\Estudos.NET-main\exemplofundamentos 2\bin\Debug\net8.0\DesafioPOO.pdb
+C:\Users\daniel.cabral\Desktop\Estudos.NET-main\exemplofundamentos 2\obj\Debug\net8.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.cabral\Desktop\Estudos.NET-main\exemplofundamentos 2\obj\Debug\net8.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\daniel.cabral\Desktop\Estudos.NET-main\exemplofundamentos 2\obj\Debug\net8.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\daniel.cabral\Desktop\Estudos.NET-main\exemplofundamentos 2\obj\Debug\net8.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\daniel.cabral\Desktop\Estudos.NET-main\exemplofundamentos 2\obj\Debug\net8.0\DesafioPOO.dll
+C:\Users\daniel.cabral\Desktop\Estudos.NET-main\exemplofundamentos 2\obj\Debug\net8.0\refint\DesafioPOO.dll
+C:\Users\daniel.cabral\Desktop\Estudos.NET-main\exemplofundamentos 2\obj\Debug\net8.0\DesafioPOO.pdb
+C:\Users\daniel.cabral\Desktop\Estudos.NET-main\exemplofundamentos 2\obj\Debug\net8.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\daniel.cabral\Desktop\Estudos.NET-main\exemplofundamentos 2\obj\Debug\net8.0\ref\DesafioPOO.dll
